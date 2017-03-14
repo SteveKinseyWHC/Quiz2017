@@ -1,0 +1,105 @@
+body {
+	font-size: 			50px;
+	font-family:		"Tahoma";
+	text-align:			center;
+	background-color:	#203737;
+	color:				white;
+	border:				15px solid	orange;
+	border-radius:		65px;
+	margin: 			20px;
+}
+
+h1 {
+	font-size: 			110px;
+	color:				red;
+	margin-top:			80px;
+}
+
+#startParagraph {
+	font-size: 			100px;
+	margin:				80px;
+	margin-top:			160px;
+	margin-bottom:		160px;
+}
+
+#startButton {
+	font-size: 			120px;
+	color:				orange;
+	font-weight:		bold;
+	background-color:	green;
+	display:			block;
+	margin:				120px;
+	padding:			150px;
+	border:				15px solid	white;
+	border-radius:		100%;
+}
+
+a {
+	text-decoration:	none;
+	color:				orange;
+}
+
+.questionScreen {
+	font-size: 			90px;
+}
+
+.questionScreen span {
+	background-color:	green;
+	display:			block;
+}
+
+p span, #goAgainButton  {
+	font-size: 			90px;
+	color:				orange;
+	background-color:	green;
+	border:				15px solid	white;
+	border-radius:		65px;
+	margin:				80px;
+	padding:			50px;
+}
+
+#scoreSection {
+	font-size: 			90px;
+}
+
+#scoreTally {
+	font-size: 			110px;
+	color:				red;
+	background-color:	#203737;
+	font-weight:		bold;
+	border:				none;
+	margin:				2px;
+	padding:			5px;
+}
+
+#finishedScreen span {
+	background-color:	green;
+	display:			block;
+	margin:				120px;
+}
+
+#finishedScreen p {
+	font-size: 			80px;
+	padding:			10px;
+}
+
+#finishedScreen {
+	display:			none;
+}
+
+.answer {
+	margin:				27px;
+}
+
+#goAgainButton{
+	background-color:	green;
+	display:			block;
+	margin:				120px;
+	margin-bottom:		90px;
+}
+
+
+
+
+
+
