@@ -3,7 +3,6 @@ var score = 0;
 
 function showQuestion(question) {
 	$('.questionScreen').hide();
-    $('.finishedScreen').hide();
 	if ($('.questionScreen:nth-of-type('+ question + ')').length > 0) {
 		$('.questionScreen:nth-of-type('+ question + ')').show();
 	} else {
